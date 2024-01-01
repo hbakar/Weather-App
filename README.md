@@ -2,6 +2,8 @@
 
 <h2 align=center>Weather App</h2> 
 
+![WhatsApp Image 2024-01-01 at 17 05 23](https://github.com/hbakar/Weather-App/assets/7202681/c0b7d7cd-933c-4c91-9f1a-737458b7dd0b)
+
 Weather App IOS Swift Open Weather API
 
 * Technologies
